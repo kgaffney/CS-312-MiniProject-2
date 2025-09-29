@@ -1,0 +1,14 @@
+{
+  "name": "cocktail-app",
+  "version": "1.0.0",
+  "description": "A web app to display random cocktail recipes using CocktailDB API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
+}
